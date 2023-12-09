@@ -1,19 +1,18 @@
 # TÍTULO DO PROJETO
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
-`2021 - Semestre 1`
+`Disciplina: Modelagem 3D`
+`2023 - Semestre 2`
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Caio Henrique Carvalho De Paiva
+- Flavio De Carvalho Cury
+
 
 ## Professor
 
-- Mestre Yoda
+- Will Machado
 
 # Documentação
 
