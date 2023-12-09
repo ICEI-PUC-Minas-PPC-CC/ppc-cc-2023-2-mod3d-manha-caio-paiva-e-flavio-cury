@@ -16,6 +16,28 @@
 
 # Documentação
 
+Foram feitos 
+  Como descrito no  Temas 1 - Tarefa 4
+    Modelo ideia - Introdução a escultura 
+      Fizemos o alien no blender com HDR.
+        O os arquivos, videos e resultados estão presentes no repositório.
+
+
+Pontos Extra:
+
+  Como descrito no Temas 2 - Tarefa 4, escolhemos o tema:
+    Captura de Movimentos com a Webcam - NVIDIA OMNIVERSE MACHINIMA 
+      O os arquivos, videos e resultados estão presentes no repositório.
+    
+  
+
+
+
+
+
+
+
+
 <ol>
 <li><a href="docs/1-Documentação de Contexto.md"> Documentação de Contexto</a></li>
 <li><a href="docs/2-Especificação do Projeto.md"> Especificação do Projeto</a></li>
